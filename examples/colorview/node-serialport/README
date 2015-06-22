@@ -1,0 +1,16 @@
+node-serialport branch  
+we do  not want to upload the firmata but use simple serial protocol and processing on the arduino.
+
+== for windows==
+
+===download===
+get git for windows (comes with msys), this will be your command line.
+get python2.7 
+get []http://blog.teamtreehouse.com/install-node-js-npm-windows nodeJs]
+get node-serialport 
+go to command line
+$ npm install serialport
+
+for blink test  
+TBD
+TBD
