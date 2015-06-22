@@ -1,6 +1,13 @@
 == for windows==
-git git for windows (comes with msys)
+
+===download===
+get git for windows (comes with msys), this will be your command line.
 get python2.7 
 get []http://blog.teamtreehouse.com/install-node-js-npm-windows nodeJs]
 get cyclon 
-$ npm install cylon cylon-firmata
+go to command line
+$ npm install cylon cylon-firmata cylon-gpio cylon-i2c
+
+for blink test  
+upload examples>firmata>standard onto your arduino  
+run code at http://cylonjs.com/documentation/platforms/arduino/
