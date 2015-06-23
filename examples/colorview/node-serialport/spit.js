@@ -9,8 +9,11 @@ var myPort = new SerialPort(portName, {
    parser: serialport.parsers.readline("\r\n")
  });
 
+
 myPort.on('data', logData);
+
 
 function logData(data){
 	console.log(data);
 }
+
