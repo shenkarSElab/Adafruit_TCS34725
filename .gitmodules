@@ -1,0 +1,3 @@
+[submodule "examples/colorview/node-serialport/arduino-processingjs-socketio"]
+	path = examples/colorview/node-serialport/arduino-processingjs-socketio
+	url = https://github.com/DanialK/arduino-processingjs-socketio.git
