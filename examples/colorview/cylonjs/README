@@ -1,6 +1,0 @@
-== for windows==
-git git for windows (comes with msys)
-get python2.7 
-get []http://blog.teamtreehouse.com/install-node-js-npm-windows nodeJs]
-get cyclon 
-$ npm install cylon cylon-firmata
